@@ -8,7 +8,7 @@
 
 ## 下载
 
-到右侧 **[Releases](../../releases/latest)** 下载 `AI账号管理器-v版本号-windows.7z`。
+到右侧 **[Releases](../../releases/latest)** 下载 `AI-Account-Manager-v版本号-windows.7z`。
 
 压缩包已加密，**需要密码才能解压**。密码请向发布者索取。
 
